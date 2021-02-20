@@ -8,6 +8,10 @@ For today's lab assignment, you will work independently to create a personal por
 
 - [HTML5 UP templates](https://html5up.net/)
 
+## Deploy with Heroku
+
+[Deploying a portfolio](https://barysevichyuliya-portofolio.herokuapp.com) 
+
 
 
 ### Time Estimate
