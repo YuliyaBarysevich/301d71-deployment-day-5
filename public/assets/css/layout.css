@@ -1594,7 +1594,8 @@ section, article {
   .image.fit {
     display: block;
     width: 100%;
-  }
+		border-bottom: 2px solid #4C6873;
+	}
 
   .image.featured {
     display: block;
